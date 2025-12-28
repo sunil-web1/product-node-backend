@@ -213,13 +213,13 @@
     "productCategory": "Hardware",
     "productCategoryID": "HARD001",
     "productDesc": "A complete screwdriver kit for home and professional use.",
-    "productPrice": 29.75,
-    "productStatus": "2",
+    "productPrice": "89.88",
+    "productStatus": "3",
     "makerRoleID": "maker1",
     "checkerID": "checker1",
-    "checkedAt": "2025-12-17T11:30:12.798Z",
+    "checkedAt": "28/12/2025, 03:42 pm",
     "makerComment": "Submitted By maker1 id 13, 16",
-    "checkerComment": ""
+    "checkerComment": "Due to technical issue"
   },
   {
     "productID": "PROD10017",
